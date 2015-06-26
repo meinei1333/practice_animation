@@ -25,7 +25,7 @@ movie = {}
   movie.play!
 
   stage.add-child movie
-
+  alert \11111111111111111111111
   animate!
 
 !function animate
